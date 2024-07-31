@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**flytomek/flytomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 👨‍💻 PHP Developer & CTO at Revinners
+- 🪂 Former BASE Jumper
 
-Here are some ideas to get you started:
+Hello! I'm a passionate web developer and currently the CTO at Revinners. With a strong background in the PHP ecosystem, I specialize in developing software using Symfony and Shopware. Beyond coding, I used to embrace the thrill of BASE jumping!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 Technologies & Tools
+- Languages: PHP, JavaScript, Node.js
+- Frameworks: Symfony, Laravel, Shopware, Sulu CMS
+- Tools: CI/CD Tools, Git, Docker, Composer
+
+---
+
+🌱 What I'm Currently Working On
+- Scaling applications and improving performance in PHP
+- Exploring new features and improvements in Symfony and Shopware
+- Leading the development team at Revinners
